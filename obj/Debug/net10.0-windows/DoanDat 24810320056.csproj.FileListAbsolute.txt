@@ -1,0 +1,25 @@
+C:\Users\AD\source\repos\DoanDat 24810320056\DoanDat 24810320056\bin\Debug\net10.0-windows\DoanDat 24810320056.exe
+C:\Users\AD\source\repos\DoanDat 24810320056\DoanDat 24810320056\bin\Debug\net10.0-windows\DoanDat 24810320056.deps.json
+C:\Users\AD\source\repos\DoanDat 24810320056\DoanDat 24810320056\bin\Debug\net10.0-windows\DoanDat 24810320056.runtimeconfig.json
+C:\Users\AD\source\repos\DoanDat 24810320056\DoanDat 24810320056\bin\Debug\net10.0-windows\DoanDat 24810320056.dll
+C:\Users\AD\source\repos\DoanDat 24810320056\DoanDat 24810320056\bin\Debug\net10.0-windows\DoanDat 24810320056.pdb
+C:\Users\AD\source\repos\DoanDat 24810320056\DoanDat 24810320056\obj\Debug\net10.0-windows\DoanDat_24810320056.Form1.resources
+C:\Users\AD\source\repos\DoanDat 24810320056\DoanDat 24810320056\obj\Debug\net10.0-windows\DoanDat 24810320056.csproj.GenerateResource.cache
+C:\Users\AD\source\repos\DoanDat 24810320056\DoanDat 24810320056\obj\Debug\net10.0-windows\DoanDat 24810320056.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AD\source\repos\DoanDat 24810320056\DoanDat 24810320056\obj\Debug\net10.0-windows\DoanDat 24810320056.AssemblyInfoInputs.cache
+C:\Users\AD\source\repos\DoanDat 24810320056\DoanDat 24810320056\obj\Debug\net10.0-windows\DoanDat 24810320056.AssemblyInfo.cs
+C:\Users\AD\source\repos\DoanDat 24810320056\DoanDat 24810320056\obj\Debug\net10.0-windows\DoanDat 24810320056.csproj.CoreCompileInputs.cache
+C:\Users\AD\source\repos\DoanDat 24810320056\DoanDat 24810320056\obj\Debug\net10.0-windows\DoanDat 24810320056.dll
+C:\Users\AD\source\repos\DoanDat 24810320056\DoanDat 24810320056\obj\Debug\net10.0-windows\refint\DoanDat 24810320056.dll
+C:\Users\AD\source\repos\DoanDat 24810320056\DoanDat 24810320056\obj\Debug\net10.0-windows\DoanDat 24810320056.pdb
+C:\Users\AD\source\repos\DoanDat 24810320056\DoanDat 24810320056\obj\Debug\net10.0-windows\DoanDat 24810320056.genruntimeconfig.cache
+C:\Users\AD\source\repos\DoanDat 24810320056\DoanDat 24810320056\obj\Debug\net10.0-windows\ref\DoanDat 24810320056.dll
+C:\Users\AD\source\repos\DoanDat 24810320056\DoanDat 24810320056\bin\Debug\net10.0-windows\System.Data.SqlClient.dll
+C:\Users\AD\source\repos\DoanDat 24810320056\DoanDat 24810320056\bin\Debug\net10.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\AD\source\repos\DoanDat 24810320056\DoanDat 24810320056\bin\Debug\net10.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\AD\source\repos\DoanDat 24810320056\DoanDat 24810320056\bin\Debug\net10.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\AD\source\repos\DoanDat 24810320056\DoanDat 24810320056\bin\Debug\net10.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\AD\source\repos\DoanDat 24810320056\DoanDat 24810320056\bin\Debug\net10.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\AD\source\repos\DoanDat 24810320056\DoanDat 24810320056\obj\Debug\net10.0-windows\DoanDat 24810320056.csproj.AssemblyReference.cache
+C:\Users\AD\source\repos\DoanDat 24810320056\DoanDat 24810320056\obj\Debug\net10.0-windows\DoanDat 24810320056.sourcelink.json
+C:\Users\AD\source\repos\DoanDat 24810320056\DoanDat 24810320056\obj\Debug\net10.0-windows\DoanDat .0A4E597F.Up2Date
